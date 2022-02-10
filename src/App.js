@@ -7,8 +7,6 @@ import FeedbackList from "./components/FeedbackList";
 import FeedbackStats from "./components/FeedbackStats";
 import FeedbackForm from "./components/FeedbackForm";
 
-import feedbackData from "./data/feedbackData";
-
 import AboutPage from "./pages/AboutPage";
 import AboutIconLink from "./components/AboutIconLink";
 
